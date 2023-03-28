@@ -1,4 +1,4 @@
-oh-my-posh --init --shell pwsh --config 'C:\Users\jona94h4\AppData\Local\Programs\oh-my-posh\themes\marcduiker.omp.json' | Invoke-Expression
+oh-my-posh --init --shell pwsh --config '$HOME\AppData\Local\Programs\oh-my-posh\themes\marcduiker.omp.json' | Invoke-Expression
 
 Import-Module -Name Terminal-Icons
 
